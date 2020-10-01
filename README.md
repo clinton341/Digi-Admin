@@ -12,3 +12,6 @@ Includes basic features for day to day management of a growing school
 
 It's pretty straight foward.
 
+CSS tech implemented include
+-Bootstrap v3.4.1
+-Fontawsome 5
